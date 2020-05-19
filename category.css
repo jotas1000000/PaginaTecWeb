@@ -1,0 +1,25 @@
+.home{
+    width: 100vw;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    height: 9vh;
+}
+.dropdown-menu{
+    overflow-y: auto;
+    height: 500px;
+}
+
+.container-custom{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-items{
+    border: 1px solid green;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
